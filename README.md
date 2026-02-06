@@ -53,7 +53,7 @@ Helping small businesses deploy, manage, and optimize cloud projects efficiently
 
 - **Email:** [salaheddine.ezzahraoui1@gmail.com](mailto:salaheddine.ezzahraoui1@gmail.com)  
 - **LinkedIn:** [Salaheddine Ez-zahraoui](https://www.linkedin.com/in/salaheddine-ez-zahraoui-6566963a9)  
--**Hire me on Fiverr:** [https://www.fiverr.com/ezzahraoui2004](https://www.fiverr.com/ezzahraoui2004)
+-**Fiverr:** [https://www.fiverr.com/ezzahraoui2004](https://www.fiverr.com/ezzahraoui2004)
 - **GitHub:** [https://github.com/SalaheddineEz-zahraoui](https://github.com/SalaheddineEz-zahraoui)
 
 ---

@@ -1,2 +1,62 @@
-# Azure-Cloud-Portfolio
-Azure Cloud portfolio showcasing hands-on deployment of Linux &amp; Windows VMs, Docker containers, and web applications on Microsoft Azure
+# ☁️ Salaheddine Ez-zahraoui
+
+**Azure Cloud & System Admin Student**  
+Hands-on experience with Azure, Linux, Windows, Docker, and cloud infrastructure.  
+Helping small businesses deploy, manage, and optimize cloud projects efficiently.  
+
+---
+
+## 💼 Skills
+
+- **Cloud:** Microsoft Azure, Virtual Machines, Cloud Architecture  
+- **OS & Administration:** Linux (Ubuntu), Windows Server  
+- **Containers:** Docker basics  
+- **Other:** Resource Groups, Basic Networking, Monitoring  
+
+---
+
+## 🚀 Services / What I Offer
+
+- **Deploy Cloud Infrastructure:** Setup VMs, configure Windows/Linux servers, manage resources  
+- **Website & App Hosting:** Deploy websites and simple apps on Azure, configure networking  
+- **Cloud Migration:** Move small projects from local to cloud environments  
+- **System Administration:** VM configuration, storage setup, basic monitoring, user access  
+- **Azure Beginner Support:** Setup Azure environments, portal guidance, troubleshooting  
+
+---
+
+## 📂 Projects / Portfolio
+
+### Azure VM Deployment Demo
+- **Description:** Deployed Windows and Linux VMs on Azure with proper networking.  
+- **Technologies:** Azure, Windows Server, Ubuntu  
+- **Value:** Helps small projects start cloud infrastructure quickly.  
+- **Screenshot / Link Placeholder:** `![Screenshot](link-to-image)`
+
+### Docker Website Hosting
+- **Description:** Containerized a web app and deployed it on Azure.  
+- **Technologies:** Azure, Docker, Linux  
+- **Value:** Demonstrates modern app deployment practices.  
+- **Screenshot / Link Placeholder:** `![Screenshot](link-to-image)`
+
+### Cloud Migration Example
+- **Description:** Migrated a local project to Azure Cloud with VM setup.  
+- **Technologies:** Azure, Windows/Linux  
+- **Value:** Helps small businesses understand cloud migration.  
+- **Screenshot / Link Placeholder:** `![Screenshot](link-to-image)`
+
+*(Add more projects as needed)*
+
+---
+
+## 📫 Contact Me
+
+- **Email:** [salaheddine.ezzahraoui1@gmail.com](mailto:salaheddine.ezzahraoui1@gmail.com)  
+- **LinkedIn:** [Salaheddine Ez-zahraoui](https://www.linkedin.com/in/salaheddine-ez-zahraoui-6566963a9)  
+- **Fiverr:** [Salaheddine Ez](https://www.fiverr.com/) *(replace with your Fiverr link)*  
+- **GitHub:** [https://github.com/SalaheddineEz-zahraoui](https://github.com/SalaheddineEz-zahraoui)
+
+---
+
+⭐ **Tagline:**  
+*Azure Cloud Enthusiast helping businesses deploy, manage, and start their cloud journey.*

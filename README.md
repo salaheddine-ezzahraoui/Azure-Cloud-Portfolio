@@ -31,13 +31,11 @@ Helping small businesses deploy, manage, and optimize cloud projects efficiently
 - **Description:** Deployed Windows and Linux VMs on Azure with proper networking.  
 - **Technologies:** Azure, Windows Server, Ubuntu  
 - **Value:** Helps small projects start cloud infrastructure quickly.  
-- **Screenshot / Link Placeholder:** `![Screenshot](link-to-image)`
 
 ### Docker Website Hosting
 - **Description:** Containerized a web app and deployed it on Azure.  
 - **Technologies:** Azure, Docker, Linux  
 - **Value:** Demonstrates modern app deployment practices.  
-- **Screenshot / Link Placeholder:** `![Screenshot](link-to-image)`
 
 ### Cloud Migration Example
 - **Description:** Migrated a local project to Azure Cloud with VM setup.  

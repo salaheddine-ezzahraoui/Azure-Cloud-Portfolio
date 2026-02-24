@@ -41,7 +41,7 @@ Helping small businesses deploy, manage, and optimize cloud projects efficiently
 - **Description:** Migrated a local project to Azure Cloud with VM setup.  
 - **Technologies:** Azure, Windows/Linux  
 - **Value:** Helps small businesses understand cloud migration.  
-- **Screenshot / Link Placeholder:** [Screenshot](https://imgur.com/a/RCERBba)
+- **Screenshot / Link Placeholder:** [Screenshot](https://postimg.cc/gallery/ZZ1R0Fc)
 
 *(Add more projects as needed)*
 
